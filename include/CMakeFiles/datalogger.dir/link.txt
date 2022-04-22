@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdatalogger.a CMakeFiles/datalogger.dir/datalogger.cpp.o
+/usr/bin/ranlib libdatalogger.a

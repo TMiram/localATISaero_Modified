@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIEEE754.a CMakeFiles/IEEE754.dir/IEEE754.cpp.o
+/usr/bin/ranlib libIEEE754.a

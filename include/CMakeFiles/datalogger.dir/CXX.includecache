@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/work/localATISaero/include/IEEE754.h
+iostream
+-
+
+/home/pi/work/localATISaero/include/datalogger.cpp
+modbus/modbus.h
+-
+IEEE754.h
+/home/pi/work/localATISaero/include/IEEE754.h
+datalogger.h
+/home/pi/work/localATISaero/include/datalogger.h
+
+/home/pi/work/localATISaero/include/datalogger.h
+iostream
+-
+vector
+-
+

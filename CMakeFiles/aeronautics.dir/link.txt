@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/aeronautics.dir/main.cpp.o -o aeronautics  include/libdatalogger.a -lmodbus include/libIEEE754.a -lpthread -lwiringPi -lncurses -ljson-c -ljsoncpp 
