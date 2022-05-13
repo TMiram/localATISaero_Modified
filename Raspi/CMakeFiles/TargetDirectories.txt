@@ -1,7 +1,0 @@
-/home/pi/work/localATISaero/CMakeFiles/rebuild_cache.dir
-/home/pi/work/localATISaero/CMakeFiles/edit_cache.dir
-/home/pi/work/localATISaero/CMakeFiles/aeronautics.dir
-/home/pi/work/localATISaero/include/CMakeFiles/edit_cache.dir
-/home/pi/work/localATISaero/include/CMakeFiles/datalogger.dir
-/home/pi/work/localATISaero/include/CMakeFiles/rebuild_cache.dir
-/home/pi/work/localATISaero/include/CMakeFiles/IEEE754.dir
