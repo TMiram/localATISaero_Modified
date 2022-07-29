@@ -1,0 +1,8 @@
+{
+   "Note" : "This is a cofiguration file for METEO-32 RS485 Communication",
+   "Config" : { 
+       "devicePort"  : "/dev/ttyUSB0",
+       "speakDelay"  : 5,
+       "numMeasures" : 5
+   }   
+}
